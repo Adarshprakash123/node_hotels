@@ -1,0 +1,6 @@
+Day-1 -> we atrted nodejs by using-> npm init
+         npm i nodemon
+         npm i express
+         npm i ladash
+         callback function-using function inside function
+         we study 2  module that is-os and fs and one also ladash
